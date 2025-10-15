@@ -49,3 +49,5 @@ We welcome translation contributions! See our [i18n guide](docs/i18n.md).
 ## License
 
 MIT
+
+# PR Merge: 2025-10-15 - feature/merge-9287
